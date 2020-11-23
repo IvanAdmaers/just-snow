@@ -1,6 +1,6 @@
 {
   "name": "just-snow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just snow for your site",
   "main": "index.js",
   "scripts": {
